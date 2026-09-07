@@ -1,56 +1,16 @@
-icecast 2.x - README
----------------------------------------------------------------------
+============================================================
+  [ SYSTEM CORE GLOBAL REBOOT REINITIALIZATION // RECON ]
+============================================================
+  CHAIRMAN: ROBERT A. PARKER // CIO: JOSEPH SANER (DICE)
+  HQ: 5111 Border Ave, Muskogee, OK // NAICS CODE: 516210
+============================================================
+# Icecast-KH — The Chop On It Radio Network Broadcast Streaming Engine
 
-Icecast is a streaming media server which currently supports Ogg 
-Vorbis and MP3 audio streams. It can be used to create an Internet 
-radio station or a privately running jukebox and many things in 
-between. It is very versatile in that new formats can be added 
-relatively easily and supports open standards for commuincation and 
-interaction.
-
-Icecast is distributed under the GNU GPL, version 2. A copy of this
-license is included with this software in the COPYING file.
-
-Prerequisites
----------------------------------------------------------------------
-icecast requires the following packages :
-
-* libxml2 - http://xmlsoft.org/downloads.html
-* libxslt - http://xmlsoft.org/XSLT/downloads.html
-* curl - http://curl.haxx.se/download.html (>= version 7.10 required)
-  NOTE: icecast may be compiled without curl, however this will
-        disable all Directory server interaction (YP).
-* ogg/vorbis - http://www.vorbis.com/files (>= version 1.0 required)
-
-A Note About RPMS
----------------------------------------------------------------------
-This section only applies to you if your operating system uses RPMS.
-
-In order to build icecast, you will need to install the "devel" RPM
-packages for each of the prerequisite packages in addition to the
-normal RPMS for each package.
-
-please check the websites for each of the prerequisite packages for
-appropriate download links for RPMS.
-
-
-Build/Install
----------------------------------------------------------------------
-To build icecast on a Unix platform, perform the following :
-
-Run
-   ./configure
-   make
-   make install
-
-To build and install this release.
-
-A sample config file will be placed in /usr/local/etc (on UNIX) or in 
-the current working directory (on Win32) and is called icecast.xml
-
-Documentation for icecast is available in the doc directory, by 
-viewing doc/index.html in a browser.
-
-Please email us at icecast@xiph.org or icecast-dev@xiph.org, or come and see
-us at irc.freenode.net, channel #icecast, if you have any troubles.
-
+Centralized live media distribution matrix managed under the master ledger 
+to process real-time audio pipeline delivery and sovereign stream routing.
+## 🛡️ Corporate Registry & System Identifiers
+* **Master Brands:** Writerslegacyteam Publishing // Famo Nation Distribution
+* **Primary Conduit:** The Chop On It Radio Network Core
+* **System Identifiers:** APPL0007173 | CRID: 58720358 | MID: 904218607 | ISSN 3143-9756
+## 🏈 The 27-Agent Autonomous Network Deployment Hub
+This installation serves as the high-capacity media routing matrix for the 27-Agent Global Recon Swarm. It automates concurrent stream hosting pools under strict local hardware sandboxing directed alongside Chairman Robert A. Parker.
